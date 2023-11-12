@@ -1,6 +1,6 @@
 [submodule "ShareUMassBackend"]
 	path = backend
-	url = git@github.com:atharvakale343/ShareUMassBackend.git
+	url = https://github.com/atharvakale343/ShareUMassBackend.git
 [submodule "hackathon-frontend"]
 	path = frontend
-	url = git@github.com:Shreneken/hackathon-frontend.git
+	url = https://github.com/Shreneken/hackathon-frontend.git
