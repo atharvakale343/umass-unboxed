@@ -7,6 +7,8 @@ View a live version of [UMass UnBoxed](http://umassunboxed.tech).
 
 Our platform is committed to providing a secure, fun, and safe way to ensure that each UMass student can buy and sell goods exclusively inside the UMASS community! :)
 
+Winner of Best Web Hack at HackUMass
+
 ## Concept
 
 The project was built on top of a MSAPD stack(Mongo, Svelte, Auth0, Postgres, Django).
